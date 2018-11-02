@@ -6,5 +6,5 @@ After using the bathroom you forgot the direction of where you came from.
 Which direction do you predict you came from from?
 ---
 Select a direction:  
-[Left](../left/directleft.md)  
-[Right](../right/directright.md)
+[Left](../lost-in-mall2/left/directleft.md)  
+[Right](../lost-in-mall2/right/directright.md)
