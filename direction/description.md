@@ -8,4 +8,3 @@ Which direction do you predict you came from from?
 Select a direction:  
 [Left](../directleft.md)  
 [Right](../directright.md)
-
