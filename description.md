@@ -6,6 +6,6 @@ After using the bathroom you forgot the direction of where you came from.
 Which direction do you predict you came from from?
 ---
 Select a direction:  
-[Left](../directleft.md)  
-[Right](../directright.md)
+[Left](left/directleft.md)  
+[Right](right/directright.md)
 
